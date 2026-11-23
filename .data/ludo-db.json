@@ -1,0 +1,527 @@
+{
+  "profiles": {
+    "usr-8w32ur7kgzf0": {
+      "id": "usr-8w32ur7kgzf0",
+      "username": "Player_GZF0",
+      "avatar": "crown",
+      "authProvider": "guest",
+      "level": 1,
+      "xp": 40,
+      "coins": 650,
+      "elo": 1200,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "captures": 0,
+      "sixesRolled": 0,
+      "unlockedItems": [
+        "royal_walnut",
+        "ivory_classic",
+        "polished_ceramic",
+        "crown"
+      ],
+      "equippedBoard": "royal_walnut",
+      "equippedDice": "ivory_classic",
+      "equippedToken": "polished_ceramic",
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "m_play",
+          "title": "Play 2 Matches",
+          "target": 2,
+          "progress": 0,
+          "rewardCoins": 180,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "m_capture",
+          "title": "Capture 3 Opponent Tokens",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 240,
+          "rewardXp": 110,
+          "claimed": false
+        },
+        {
+          "id": "m_sixes",
+          "title": "Roll 5 Sixes",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 200,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "m_win",
+          "title": "Win 1 Match",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 350,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "friends": [
+        {
+          "id": "npc-arjun",
+          "username": "Arjun_Pro",
+          "avatar": "knight",
+          "elo": 1480,
+          "status": "online"
+        },
+        {
+          "id": "npc-elena",
+          "username": "ElenaV",
+          "avatar": "phoenix",
+          "elo": 1390,
+          "status": "in_match"
+        },
+        {
+          "id": "npc-marcus",
+          "username": "MarcusK",
+          "avatar": "diamond",
+          "elo": 1625,
+          "status": "online"
+        }
+      ],
+      "matchHistory": []
+    },
+    "usr-erjy5ngdhh7h": {
+      "id": "usr-erjy5ngdhh7h",
+      "username": "Player_HH7H",
+      "avatar": "crown",
+      "authProvider": "guest",
+      "level": 1,
+      "xp": 40,
+      "coins": 650,
+      "elo": 1200,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "captures": 0,
+      "sixesRolled": 0,
+      "unlockedItems": [
+        "royal_walnut",
+        "ivory_classic",
+        "polished_ceramic",
+        "crown"
+      ],
+      "equippedBoard": "royal_walnut",
+      "equippedDice": "ivory_classic",
+      "equippedToken": "polished_ceramic",
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "m_play",
+          "title": "Play 2 Matches",
+          "target": 2,
+          "progress": 0,
+          "rewardCoins": 180,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "m_capture",
+          "title": "Capture 3 Opponent Tokens",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 240,
+          "rewardXp": 110,
+          "claimed": false
+        },
+        {
+          "id": "m_sixes",
+          "title": "Roll 5 Sixes",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 200,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "m_win",
+          "title": "Win 1 Match",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 350,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "friends": [
+        {
+          "id": "npc-arjun",
+          "username": "Arjun_Pro",
+          "avatar": "knight",
+          "elo": 1480,
+          "status": "online"
+        },
+        {
+          "id": "npc-elena",
+          "username": "ElenaV",
+          "avatar": "phoenix",
+          "elo": 1390,
+          "status": "in_match"
+        },
+        {
+          "id": "npc-marcus",
+          "username": "MarcusK",
+          "avatar": "diamond",
+          "elo": 1625,
+          "status": "online"
+        }
+      ],
+      "matchHistory": []
+    },
+    "usr-a82dm1scjhyn": {
+      "id": "usr-a82dm1scjhyn",
+      "username": "Player_JHYN",
+      "avatar": "crown",
+      "authProvider": "guest",
+      "level": 1,
+      "xp": 40,
+      "coins": 200,
+      "elo": 1200,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "captures": 0,
+      "sixesRolled": 0,
+      "unlockedItems": [
+        "royal_walnut",
+        "ivory_classic",
+        "polished_ceramic",
+        "crown",
+        "carrara_marble"
+      ],
+      "equippedBoard": "carrara_marble",
+      "equippedDice": "ivory_classic",
+      "equippedToken": "polished_ceramic",
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "m_play",
+          "title": "Play 2 Matches",
+          "target": 2,
+          "progress": 0,
+          "rewardCoins": 180,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "m_capture",
+          "title": "Capture 3 Opponent Tokens",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 240,
+          "rewardXp": 110,
+          "claimed": false
+        },
+        {
+          "id": "m_sixes",
+          "title": "Roll 5 Sixes",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 200,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "m_win",
+          "title": "Win 1 Match",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 350,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "friends": [
+        {
+          "id": "npc-arjun",
+          "username": "Arjun_Pro",
+          "avatar": "knight",
+          "elo": 1480,
+          "status": "online"
+        },
+        {
+          "id": "npc-elena",
+          "username": "ElenaV",
+          "avatar": "phoenix",
+          "elo": 1390,
+          "status": "in_match"
+        },
+        {
+          "id": "npc-marcus",
+          "username": "MarcusK",
+          "avatar": "diamond",
+          "elo": 1625,
+          "status": "online"
+        }
+      ],
+      "matchHistory": []
+    },
+    "usr-hqtej12zk5x1": {
+      "id": "usr-hqtej12zk5x1",
+      "username": "Player_K5X1",
+      "avatar": "crown",
+      "authProvider": "guest",
+      "level": 1,
+      "xp": 40,
+      "coins": 650,
+      "elo": 1200,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "captures": 0,
+      "sixesRolled": 0,
+      "unlockedItems": [
+        "royal_walnut",
+        "ivory_classic",
+        "polished_ceramic",
+        "crown"
+      ],
+      "equippedBoard": "royal_walnut",
+      "equippedDice": "ivory_classic",
+      "equippedToken": "polished_ceramic",
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "m_play",
+          "title": "Play 2 Matches",
+          "target": 2,
+          "progress": 0,
+          "rewardCoins": 180,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "m_capture",
+          "title": "Capture 3 Opponent Tokens",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 240,
+          "rewardXp": 110,
+          "claimed": false
+        },
+        {
+          "id": "m_sixes",
+          "title": "Roll 5 Sixes",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 200,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "m_win",
+          "title": "Win 1 Match",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 350,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "friends": [
+        {
+          "id": "npc-arjun",
+          "username": "Arjun_Pro",
+          "avatar": "knight",
+          "elo": 1480,
+          "status": "online"
+        },
+        {
+          "id": "npc-elena",
+          "username": "ElenaV",
+          "avatar": "phoenix",
+          "elo": 1390,
+          "status": "in_match"
+        },
+        {
+          "id": "npc-marcus",
+          "username": "MarcusK",
+          "avatar": "diamond",
+          "elo": 1625,
+          "status": "online"
+        }
+      ],
+      "matchHistory": []
+    },
+    "usr-ejcvkxn4l8cp": {
+      "id": "usr-ejcvkxn4l8cp",
+      "username": "Player_L8CP",
+      "avatar": "crown",
+      "authProvider": "guest",
+      "level": 1,
+      "xp": 40,
+      "coins": 650,
+      "elo": 1200,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "captures": 0,
+      "sixesRolled": 0,
+      "unlockedItems": [
+        "royal_walnut",
+        "ivory_classic",
+        "polished_ceramic",
+        "crown"
+      ],
+      "equippedBoard": "royal_walnut",
+      "equippedDice": "ivory_classic",
+      "equippedToken": "polished_ceramic",
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "m_play",
+          "title": "Play 2 Matches",
+          "target": 2,
+          "progress": 0,
+          "rewardCoins": 180,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "m_capture",
+          "title": "Capture 3 Opponent Tokens",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 240,
+          "rewardXp": 110,
+          "claimed": false
+        },
+        {
+          "id": "m_sixes",
+          "title": "Roll 5 Sixes",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 200,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "m_win",
+          "title": "Win 1 Match",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 350,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "friends": [
+        {
+          "id": "npc-arjun",
+          "username": "Arjun_Pro",
+          "avatar": "knight",
+          "elo": 1480,
+          "status": "online"
+        },
+        {
+          "id": "npc-elena",
+          "username": "ElenaV",
+          "avatar": "phoenix",
+          "elo": 1390,
+          "status": "in_match"
+        },
+        {
+          "id": "npc-marcus",
+          "username": "MarcusK",
+          "avatar": "diamond",
+          "elo": 1625,
+          "status": "online"
+        }
+      ],
+      "matchHistory": []
+    },
+    "usr-m3xfzo7rmg85": {
+      "id": "usr-m3xfzo7rmg85",
+      "username": "Player_MG85",
+      "avatar": "crown",
+      "authProvider": "guest",
+      "level": 1,
+      "xp": 40,
+      "coins": 650,
+      "elo": 1200,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "captures": 0,
+      "sixesRolled": 0,
+      "unlockedItems": [
+        "royal_walnut",
+        "ivory_classic",
+        "polished_ceramic",
+        "crown"
+      ],
+      "equippedBoard": "royal_walnut",
+      "equippedDice": "ivory_classic",
+      "equippedToken": "polished_ceramic",
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "m_play",
+          "title": "Play 2 Matches",
+          "target": 2,
+          "progress": 0,
+          "rewardCoins": 180,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "m_capture",
+          "title": "Capture 3 Opponent Tokens",
+          "target": 3,
+          "progress": 0,
+          "rewardCoins": 240,
+          "rewardXp": 110,
+          "claimed": false
+        },
+        {
+          "id": "m_sixes",
+          "title": "Roll 5 Sixes",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 200,
+          "rewardXp": 90,
+          "claimed": false
+        },
+        {
+          "id": "m_win",
+          "title": "Win 1 Match",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 350,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "friends": [
+        {
+          "id": "npc-arjun",
+          "username": "Arjun_Pro",
+          "avatar": "knight",
+          "elo": 1480,
+          "status": "online"
+        },
+        {
+          "id": "npc-elena",
+          "username": "ElenaV",
+          "avatar": "phoenix",
+          "elo": 1390,
+          "status": "in_match"
+        },
+        {
+          "id": "npc-marcus",
+          "username": "MarcusK",
+          "avatar": "diamond",
+          "elo": 1625,
+          "status": "online"
+        }
+      ],
+      "matchHistory": []
+    }
+  }
+}
